@@ -58,7 +58,7 @@ YGOPro 线上赛
 - 可以投入被《元素英雄 烈焰侠》记述的最多 3 张《融合》.
 - 不可以投入《幻影英雄 仿生人》这类只记述了【英雄】的卡 (特例规则【英雄】不视为字段).
 
-<details><summary><b>关于一些字段的解释</b></summary>
+<details><summary>▷<b>关于一些字段的解释</b></summary>
 
 - 以日文为准. 例如《机巧蛇 从云远吕智》不视为《借机巧藏》的【机巧】字段.
 - 【烙印】【帝王】等, 字段标注为 "「XXX」魔法陷阱卡" 的, 只能投入 (1)「XXX」魔法陷阱卡, (2) 卡片效果文记述有 "「XXX」魔法陷阱卡" 的卡, 和 (3) 主卡组投入的「XXX」魔法陷阱卡效果文记述了全名的卡.
@@ -96,7 +96,7 @@ YGOPro 线上赛
 
 注册登录账号, 在 [Challonge 赛事主页](#checklist) 登记.
 
-<details><summary><b>如果验证码打不开 (reCAPTCHA verification failed)</b></summary>
+<details><summary>▷<b>如果验证码打不开 (reCAPTCHA verification failed)</b></summary>
 
 参考 [这篇文章](https://zhuanlan.zhihu.com/p/463307906), 把文中第二个网址替换为 https://www.recaptcha.net/recaptcha/api.js
 
@@ -213,7 +213,7 @@ R2 C7 vs C8 2022-05-26 23-15-34
 - [Tracker and KTS tiebreakers](https://mp.weixin.qq.com/s/jwZVkYOZNIgwzCDhb-qkdg)
 - [Challonge 的瑞士轮匹配机制](https://mp.weixin.qq.com/s/3b75Z2c3GC4bJWfmtWcS0g)
 
-<details><summary><b>为什么设置这么多小分?</b></summary>
+<details><summary>▷<b>为什么设置这么多小分?</b></summary>
 
 因为以前 C 盟出过事故, 见 [论游戏王线上联赛主裁雪花的 "公平公正"](https://card.weibo.com/article/m/show/id/2309404470147241869478?ua=Mozilla%2F5.0+%28Linux%3B+Android+12%3B+M2102J2SC+Build%2FSKQ1.211006.001%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F100.0.4896.79+Mobile+Safari%2F537.36Mi+10S_12_WeiboIntlAndroid_4190). 原因是主办不知道算分机制, 要求重赛但无法给出令选手信服的解释.
 
